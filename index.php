@@ -75,7 +75,7 @@
             <p>
                 Win $10000 worth vacation from Eskimo token distribution vacation contest.
             </p> 
-            <a href="page.html" class="bn">Take a Tour</a>
+            <a href="page.php" class="bn">Take a Tour</a>
         </div>
         <div class="col-md-3"></div>
     </div>
