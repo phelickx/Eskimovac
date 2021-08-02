@@ -7,8 +7,15 @@
     <title></title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="./css/style.css">
-	<link rel="stylesheet" href="css/aos.css">
-	<link href="https://unpkg.com/aos@2.2/dist/aos.css" rel="stylesheet" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" />
+	  <link rel="stylesheet" href="css/aos.css">
+	  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+	  <!-- Google Fonts Roboto -->
+	  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" />
+	  <!-- MDB -->
+	  <link rel="stylesheet" href="css/mdb.min.css" />
+	  <link rel="stylesheet" href="css/custm.css" />
+	  <link href="https://unpkg.com/aos@2.2/dist/aos.css" rel="stylesheet" />
 
 </head>
 <body>
