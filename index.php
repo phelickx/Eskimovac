@@ -46,8 +46,8 @@
 			<h1>Eskimo Vacation</h1>
 			<p>Win $10,000 worth vacation from <br> ESKIMO Token distribution Vacation contest</p>
 			<div class="hero-icon" style="padding: 20px;">
-				<a href="" class="fav"><i class="fa fa-telegram"></i></a>
-				<a href="" class="fav"><i class="fa fa-twitter"></i></a>
+				<a href="" class="fav"><i class="fab fa-telegram"></i></a>
+				<a href="" class="fav"><i class="fab fa-twitter"></i></a>
 			</div>
 			<a href="#features" type="button" class="cta">TOUR</a>
 		</div>
